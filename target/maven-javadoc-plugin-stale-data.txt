@@ -1,0 +1,46 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'/home/juan/Baixades/DAW_M08_EAC4_Enunciat_2425S1/fitxers/Part 1/Java/SelectionSort/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/juan/Baixades/DAW_M08_EAC4_Enunciat_2425S1/fitxers/Part 1/Java/SelectionSort/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'SelectionSort 1.0 API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' '/home/juan/Baixades/DAW_M08_EAC4_Enunciat_2425S1/fitxers/Part 1/Java/SelectionSort/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'SelectionSort 1.0 API'
+ioc.xtec.cat.selectionsort
+/home/juan/Baixades/DAW_M08_EAC4_Enunciat_2425S1/fitxers/Part 1/Java/SelectionSort/src/main/java = 1732436948000
+/home/juan/Baixades/DAW_M08_EAC4_Enunciat_2425S1/fitxers/Part 1/Java/SelectionSort/target/reports/apidocs/search.js = 1733773762700
+/home/juan/Baixades/DAW_M08_EAC4_Enunciat_2425S1/fitxers/Part 1/Java/SelectionSort/target/reports/apidocs/help-doc.html = 1733773762688
+/home/juan/Baixades/DAW_M08_EAC4_Enunciat_2425S1/fitxers/Part 1/Java/SelectionSort/target/reports/apidocs/package-search-index.js = 1733773762623
+/home/juan/Baixades/DAW_M08_EAC4_Enunciat_2425S1/fitxers/Part 1/Java/SelectionSort/target/reports/apidocs/module-search-index.js = 1733773762621
+/home/juan/Baixades/DAW_M08_EAC4_Enunciat_2425S1/fitxers/Part 1/Java/SelectionSort/target/reports/apidocs/index-all.html = 1733773762668
+/home/juan/Baixades/DAW_M08_EAC4_Enunciat_2425S1/fitxers/Part 1/Java/SelectionSort/target/reports/apidocs/element-list = 1733773762407
+/home/juan/Baixades/DAW_M08_EAC4_Enunciat_2425S1/fitxers/Part 1/Java/SelectionSort/target/reports/apidocs/jquery-ui.overrides.css = 1733773762712
+/home/juan/Baixades/DAW_M08_EAC4_Enunciat_2425S1/fitxers/Part 1/Java/SelectionSort/target/reports/apidocs/overview-tree.html = 1733773762521
+/home/juan/Baixades/DAW_M08_EAC4_Enunciat_2425S1/fitxers/Part 1/Java/SelectionSort/target/reports/apidocs/script.js = 1733773762696
+/home/juan/Baixades/DAW_M08_EAC4_Enunciat_2425S1/fitxers/Part 1/Java/SelectionSort/target/reports/apidocs/allpackages-index.html = 1733773762619
+/home/juan/Baixades/DAW_M08_EAC4_Enunciat_2425S1/fitxers/Part 1/Java/SelectionSort/target/reports/apidocs/type-search-index.js = 1733773762624
+/home/juan/Baixades/DAW_M08_EAC4_Enunciat_2425S1/fitxers/Part 1/Java/SelectionSort/target/reports/apidocs/stylesheet.css = 1733773762694
+/home/juan/Baixades/DAW_M08_EAC4_Enunciat_2425S1/fitxers/Part 1/Java/SelectionSort/target/reports/apidocs/member-search-index.js = 1733773762624
+/home/juan/Baixades/DAW_M08_EAC4_Enunciat_2425S1/fitxers/Part 1/Java/SelectionSort/target/reports/apidocs/index.html = 1733773762673
+/home/juan/Baixades/DAW_M08_EAC4_Enunciat_2425S1/fitxers/Part 1/Java/SelectionSort/target/reports/apidocs/allclasses-index.html = 1733773762612
+/home/juan/Baixades/DAW_M08_EAC4_Enunciat_2425S1/fitxers/Part 1/Java/SelectionSort/target/reports/apidocs/tag-search-index.js = 1733773762626

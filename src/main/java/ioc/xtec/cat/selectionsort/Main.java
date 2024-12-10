@@ -21,7 +21,10 @@ public class Main {
 
 public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-
+        
+        System.out.println("Autor: Juan Bejarano");
+        System.out.println("Git i els seus errors per fer push");
+        
         System.out.println("Introdueix la mida de l'array: ");
         int size = scanner.nextInt();
 
